@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 261F-E833
+
+ Directory of C:\Users\PAVANKULKARNI\Desktop\Git Testing
+
+10/19/2019  01:04 AM    <DIR>          .
+10/19/2019  01:04 AM    <DIR>          ..
+10/19/2019  01:04 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  120,348,037,120 bytes free
